@@ -80,7 +80,3 @@ ex.
 ```sh
 git push server master
 ```
-
-
-****
-******
