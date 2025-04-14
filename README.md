@@ -35,14 +35,15 @@ ex.
 git branch -r
 ```
 
-5.) see the list of all branches in side our local git folder  
+6.) see the list of all branches in side our local git folder  
 
 ex.
 ```sh
 git branch -a
 ```
 
-4.)  invoke pulling file from the server
+7.)  invoke pulling file from the server
+
 syntax:
 git pull <server_alias> <remote_branch_to_pull>
 
@@ -51,26 +52,31 @@ ex.
 git pull server master
 ```
 
-5.) invoke add command, to add any changes or anything
+8.) invoke add command, to add any changes or anything
 
 ex.
 ```sh
 git add .
 ```
 
-6.) commit all the changes
+9.) commit all the changes
 
 syntax:
 
+git commit -m <your_commit_message>
 
 ex.
 ```sh
 git commit -m changed_readme_file
 ```
 
-try again
+10.) invoke a push your local file to arrive in the remote server
 
-# it is really a death sentence
- buang ka 
+syntax:
 
- heheheheh
+git push <server_alias> <remote_branch_to_pull>
+
+ex.
+```sh
+git push server master
+```
