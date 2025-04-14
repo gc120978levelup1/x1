@@ -2,18 +2,27 @@
 para sa mga gwapo
 
 ## Local Side
-1. create a folder
-2. invoke folder initialization 
+1.) create a local folder
+2.) invoke folder initialization 
 
 ```sh
 git init
 ```
 
-3. assign remote server
+3.) assign remote server
 syntax:
 git remote add server <https://reposerver.git>
 
 ex.
 ```sh
 git remote add server https://github.com/gc120978levelup1/x1.git 
+```
+
+4.)  invoke pulling file from the server
+syntax:
+git pull <assigned remote_server> <remote_branch_to_pull>
+
+ex.
+```sh
+git pull server master
 ```
