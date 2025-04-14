@@ -5,15 +5,15 @@ para sa mga gwapo
 1. create a folder
 2. invoke folder initialization 
 
----sh
+```sh
 git init
----
+```
 
 3. assign remote server
 syntax:
 git remote add server <https://reposerver.git>
 
 ex.
----sh
+```sh
 git remote add server https://github.com/gc120978levelup1/x1.git 
----
+```
