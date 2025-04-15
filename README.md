@@ -104,4 +104,14 @@ ex.
 git branch -d branch_name
 ```
 
+13.) cloning an existing remote repository
+
+syntax:
+
+git clone --recursive <https://reposerver.git>
+
+ex.
+```sh
+git clone --recursive https://github.com/gc120978levelup1/x1.git 
+```
 
