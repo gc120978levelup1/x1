@@ -80,3 +80,14 @@ ex.
 ```sh
 git push server master
 ```
+
+11.) create a new branch
+ 
+syntax:
+
+git checkout -b <new_branch_to_create>
+
+ex.
+```sh
+git checkout -b newbranch001
+```
