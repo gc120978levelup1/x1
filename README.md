@@ -82,7 +82,7 @@ ex.
 git push server master
 ```
 
-11.) create a new branch
+11.) create a new local branch
  
 syntax:
 
@@ -92,3 +92,16 @@ ex.
 ```sh
 git checkout -b newbranch001
 ```
+
+12.) delete a local branch
+ 
+syntax:
+
+git branch -d <ranch_name>
+
+ex.
+```sh
+git branch -d branch_name
+```
+
+
