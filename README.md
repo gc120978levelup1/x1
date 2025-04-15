@@ -82,7 +82,7 @@ ex.
 git push server master
 ```
 
-11.) create a new local branch
+### 11.) create a new local branch
  
 syntax:
 
@@ -93,7 +93,7 @@ ex.
 git checkout -b newbranch001
 ```
 
-12.) delete a local branch
+### 12.) delete a local branch
  
 syntax:
 
@@ -104,7 +104,7 @@ ex.
 git branch -d branch_name
 ```
 
-13.) cloning an existing remote repository
+### 13.) cloning an existing remote repository
 
 syntax:
 
