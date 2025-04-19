@@ -1,5 +1,5 @@
 # x1
-para sa mga gwapo
+My Git Guide
 
 ## Local Side
 
