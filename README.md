@@ -50,7 +50,7 @@ git pull <server_alias> <remote_branch_to_pull>
 
 ex.
 ```sh
-git pull server master
+git pull server master --allow-unrelated-histories
 ```
 
 ### 8.) invoke add command, to add any changes or anything
